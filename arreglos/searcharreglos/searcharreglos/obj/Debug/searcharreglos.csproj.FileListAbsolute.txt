@@ -1,0 +1,7 @@
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\arreglos\searcharreglos\searcharreglos\bin\Debug\searcharreglos.exe.config
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\arreglos\searcharreglos\searcharreglos\bin\Debug\searcharreglos.exe
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\arreglos\searcharreglos\searcharreglos\bin\Debug\searcharreglos.pdb
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\arreglos\searcharreglos\searcharreglos\obj\Debug\searcharreglos.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\arreglos\searcharreglos\searcharreglos\obj\Debug\searcharreglos.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\arreglos\searcharreglos\searcharreglos\obj\Debug\searcharreglos.exe
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\arreglos\searcharreglos\searcharreglos\obj\Debug\searcharreglos.pdb
