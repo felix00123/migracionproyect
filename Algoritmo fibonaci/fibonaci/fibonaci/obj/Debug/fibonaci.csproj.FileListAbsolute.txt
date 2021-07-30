@@ -1,0 +1,7 @@
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\Algoritmo fibonaci\fibonaci\fibonaci\bin\Debug\fibonaci.exe.config
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\Algoritmo fibonaci\fibonaci\fibonaci\bin\Debug\fibonaci.exe
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\Algoritmo fibonaci\fibonaci\fibonaci\bin\Debug\fibonaci.pdb
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\Algoritmo fibonaci\fibonaci\fibonaci\obj\Debug\fibonaci.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\Algoritmo fibonaci\fibonaci\fibonaci\obj\Debug\fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\Algoritmo fibonaci\fibonaci\fibonaci\obj\Debug\fibonaci.exe
+C:\Users\manue\Desktop\Nueva carpeta\migracionproyect\Algoritmo fibonaci\fibonaci\fibonaci\obj\Debug\fibonaci.pdb
